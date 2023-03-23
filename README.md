@@ -1,6 +1,6 @@
 ### 啊，好像被看见了呢
 
-![CyaCoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyaCoan&count_private=true&show_icons=true&locale=cn&include_all_commits=true&bg_color=fafafa&icon_color=b0a4e3&title_color=b0a4e3&hide_border=true)
+![CyaCoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyaCoan&count_private=true&show_icons=true&locale=cn&include_all_commits=true&bg_color=fafafa&icon_color=b7a4e3&title_color=8d77bb&hide_border=true)
 
 <!--
 **CyaCoan/CyaCoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
